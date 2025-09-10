@@ -40,7 +40,7 @@ O projeto segue a arquitetura **MVC (Model-View-Controller)**, com a seguinte or
 1.  **Pré\-requisitos**:
     * Java Development Kit (JDK) 8 ou superior instalado.
     * MySQL Server instalado e configurado.
-    * IDE (Integrated Development Environment) como IntelliJ IDEA, Eclipse ou NetBeans.
+    * IDE como IntelliJ IDEA, Eclipse ou NetBeans.
 
 2.  **Configuração do Banco de Dados**:
     * Crie um banco de dados com o nome `projeto_db` (ou o nome que você preferir).
@@ -51,7 +51,3 @@ O projeto segue a arquitetura **MVC (Model-View-Controller)**, com a seguinte or
     * Clone o repositório para a sua máquina local.
     * Abra o projeto na sua IDE.
     * Execute a classe principal em `src/main/java/com/seuprojeto/Main.java`.
-
-## Contato
-
-Para mais informações, entre em contato\.
